@@ -1,0 +1,11 @@
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\bin\Debug\Enum_Yapısı.exe.config
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\bin\Debug\Enum_Yapısı.exe
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\bin\Debug\Enum_Yapısı.pdb
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.csproj.AssemblyReference.cache
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.Form1.resources
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.Properties.Resources.resources
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.csproj.GenerateResource.cache
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.exe
+C:\Users\USER01\Desktop\C#\Enum_Yapısı\Enum_Yapısı\obj\Debug\Enum_Yapısı.pdb
